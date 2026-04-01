@@ -1,4 +1,4 @@
-# 📚 Marvellous Study Tracker App
+# 📚 Study Tracker App
 
 **Technology:** Java
 
